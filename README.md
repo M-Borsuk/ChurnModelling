@@ -65,3 +65,34 @@ The goal of this project is to <strong>analyse and model the data</strong>, that
 
 ---
 ---
+
+# **Results**
+<figure align=center>
+  <img src='https://github.com/M-Borsuk/ChurnModelling/blob/main/classrep.png?raw=true'>
+  <figcaption align='center'>Classification report</figcaption>
+ </figure>
+ 
+ <br>
+<br>
+<br>
+
+
+<figure align=center>
+  <img src='https://github.com/M-Borsuk/ChurnModelling/blob/main/cm.png?raw=true'>
+  <figcaption align='center'>Confusion matrix; 0 => customer did not exit the company; 1 => customer exited the company</figcaption>
+ </figure>
+
+<br>
+<br>
+<br>
+ 
+ <figure align=center>
+  <img src=https://github.com/M-Borsuk/ChurnModelling/blob/main/newplot%20(1).png?raw=true>
+  <figcaption align='center'>ROC curve</figcaption>
+ </figure>
+
+<br>
+<br>
+<br>
+
+# **Thanks for reading!**
