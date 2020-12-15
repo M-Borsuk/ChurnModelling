@@ -7,7 +7,7 @@
 
 ---
 
-<p align='center'><a  href='https://nbviewer.jupyter.org/github/M-Borsuk/ChurnModelling/blob/3f840f89b3483cd3e4559b5d5bc384292995b0df/ChurnModelling.ipynb' > View the notebook here for better readability </a></p>
+<p align='center'><a  href='https://nbviewer.jupyter.org/github/M-Borsuk/ChurnModelling/blob/c7ad6d19843dfbbb2d7541713473d2a2ef1bc30b/ChurnModelling.ipynb' > View the notebook here for better readability </a></p>
 
 <br>
 <br>
